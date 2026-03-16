@@ -12,7 +12,7 @@ Batangas, Philippines (U.S. Citizen – Open to Relocation)
 
 ## What I Build
 
-I design and deploy **production AI systems** — multi-agent orchestration, voice AI integration, full-stack automation, and API-first architecture. I ship working software, not prototypes.
+I design and deploy **production AI systems** multi-agent orchestration, voice AI integration, full-stack automation, and API-first architecture. I ship working software, not prototypes.
 
 Currently building under **MAGE Software** (Malleus Prendere LLC): a portfolio of AI-powered products spanning developer tools, mental health tech, geopolitical intelligence, and desktop productivity.
 
