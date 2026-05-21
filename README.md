@@ -1,104 +1,129 @@
 # Lawrence Magee
 
-**AI Solutions Engineer | Multi-Agent Architect | 20-Year IT Veteran**
+**AI systems builder · U.S. Army IT veteran · product-minded technologist**
 
-Batangas, Philippines (U.S. Citizen – Open to Relocation)
+I build practical AI-native systems, workflow tools, and automation that help people make sense of complexity and move faster with less friction.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lawrencemagee-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/lawrencemagee)
-[![GitHub](https://img.shields.io/badge/GitHub-lmagee3-181717?style=flat&logo=github)](https://github.com/lmagee3)
-[![Chaos Monk](https://img.shields.io/badge/Chaos_Monk-Developer_Tools-2E86AB?style=flat)](https://chaosmonk.netlify.app)
+My background combines **20 years of military IT and operations experience**, a **cybersecurity foundation**, and graduate work in **acquisitions, contracts, and business strategy**. I now focus on AI-assisted systems, local-first tools, product execution, and workflow improvement.
 
----
+📍 Based in the Philippines · U.S. Citizen · Open to remote opportunities and selective relocation
 
-## What I Build
-
-I design and deploy **production AI systems** multi-agent orchestration, voice AI integration, full-stack automation, and API-first architecture. I ship working software, not prototypes.
-
-Currently building under **MAGE Software** (Malleus Prendere LLC): a portfolio of AI-powered products spanning developer tools, mental health tech, geopolitical intelligence, and desktop productivity.
+[LinkedIn](https://linkedin.com/in/lawrencemagee) · [GitHub](https://github.com/lmagee3) · [Chaos Monk](https://chaosmonk.netlify.app)
 
 ---
 
-## Shipped Products
+## Professional focus
 
-### Ground Truth — Geopolitical Context Engine
-> *"The intelligence briefing behind the radar blip"*
+I am especially interested in roles and projects involving:
 
-Open-source API engine that generates historical context briefings from **9 primary authoritative sources** (World Bank, CIA Factbook, GDELT, ACLED, SIPRI, FAS, Library of Congress, Congress.gov, NARA). No Wikipedia. No media spin. Primary sources only.
-
-**Stack:** Python/FastAPI · PostgreSQL · React 18/TypeScript · Ollama (local LLM) · SSE Streaming · asyncio
-
-[![Repo](https://img.shields.io/badge/Repo-ground--truth-181717?style=flat&logo=github)](https://github.com/lmagee3/ground-truth)
-
----
-
-### Error Radar — VS Code Extension
-> *See every workspace error in one place*
-
-Free VS Code extension that aggregates diagnostics across your entire codebase into a single panel with click-to-jump navigation, severity filtering, and auto-refresh.
-
-**Stack:** TypeScript · VS Code Extension API
-
-[![Marketplace](https://img.shields.io/badge/VS_Code-Marketplace-007ACC?style=flat&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=chaosmonk.error-radar)
-[![Repo](https://img.shields.io/badge/Repo-error--radar-181717?style=flat&logo=github)](https://github.com/lmagee3/error-radar)
+- AI systems and workflow automation
+- Technical product operations
+- AI-enabled business process improvement
+- Solutions architecture
+- Technical program / project execution
+- Local-first and privacy-conscious software
+- Defense-adjacent and operational technology
 
 ---
 
-### Kairos — AI Mental Health Assistant
-> *Pre-therapy support powered by voice AI*
+## Selected work
 
-iOS mental health app with Claude API integration and ElevenLabs TTS voice synthesis. Real-time streaming voice conversations for pre-therapy support and therapist matching.
+### Ground Truth
+**AI-assisted context and verification concept**
 
-**Stack:** Swift/SwiftUI · Claude API · ElevenLabs TTS
+A research-oriented product concept exploring how structured timelines, primary sources, and AI synthesis can help explain complex geopolitical events.
 
----
+**Demonstrates:** systems thinking, AI-assisted research workflows, source verification, product architecture, ambiguity management
 
-### Chaos Monk — Developer Tools
-> *Practical tools for developers who value clarity*
+**Tech:** Python · FastAPI · PostgreSQL concepts · React · local and remote LLM workflows
 
-Local-first Notion workspace indexer. Map and index your entire Notion workspace in seconds. Zero backend dependencies.
-
-**Stack:** Python · Notion API · Netlify
-
-[![Site](https://img.shields.io/badge/Site-chaosmonk.netlify.app-2E86AB?style=flat)](https://chaosmonk.netlify.app)
+Repo: https://github.com/lmagee3/ground-truth
 
 ---
 
-### module_09 — AI Desktop Command Center
-> *AI-native productivity OS for solo operators*
+### Error Radar
+**VS Code extension for workspace diagnostics**
 
-Tauri desktop application serving as a multi-agent command center with local LLM integration, automated task routing, and Notion API sync.
+A lightweight developer utility that surfaces errors and warnings across an entire project in one place.
 
-**Stack:** Tauri (Rust) · React 18/TypeScript · Python/FastAPI · Ollama
+**Demonstrates:** workflow optimization, practical product design, TypeScript tooling, developer experience thinking
+
+**Tech:** TypeScript · VS Code Extension API
+
+Repo: https://github.com/lmagee3/error-radar
 
 ---
 
-## Technical Stack
+### Chaos Monk Workspace Sitemap
+**Local-first Notion indexing tool**
 
-| Category | Technologies |
-|----------|-------------|
-| **AI & LLM** | Claude API · OpenAI/ChatGPT · Gemini · ElevenLabs TTS · Ollama · Multi-Agent Orchestration · MCP Connectors |
-| **Languages** | Python · TypeScript · JavaScript · Swift · Rust · SQL |
-| **Backend** | FastAPI · REST APIs · Webhooks · SSE Streaming · asyncio · SQLAlchemy · PostgreSQL · Redis |
-| **Frontend** | React 18 · Vite · SwiftUI · Tailwind |
-| **Automation** | Notion API · VS Code Extension API · GitHub Actions · Process Orchestration |
-| **Infrastructure** | Docker · Git · Netlify · Vercel · Railway |
+A small productized utility that creates a navigable sitemap for large Notion workspaces.
+
+**Demonstrates:** shipping useful tools, local-first thinking, API integration, simple architecture, product packaging
+
+**Tech:** Python · Notion API
+
+Product: https://chaosmonk.netlify.app
+
+---
+
+### AI Productivity Stack
+**Operating model for AI-assisted execution**
+
+A practical framework for organizing AI-assisted product development using structured handoffs, review loops, and human-in-the-loop decision making.
+
+**Demonstrates:** systems thinking, documentation, process design, AI workflow orchestration
+
+Repo: https://github.com/lmagee3/ai-productivity-stack
+
+---
+
+## Core strengths
+
+| Area | Experience |
+|---|---|
+| Systems thinking | Breaking ambiguous problems into practical execution paths |
+| AI workflows | Using AI in disciplined, inspectable ways to improve output |
+| Operations | Experience in structured, mission-critical IT environments |
+| Technical communication | Translating complexity into understandable systems |
+| Product execution | Turning ideas into useful tools and workflows |
+| Cybersecurity mindset | Security-aware thinking shaped by Army IT and cyber education |
+
+---
+
+## Technical areas
+
+**Languages & frameworks**  
+Python · TypeScript · JavaScript · Swift · SQL · React · FastAPI
+
+**AI & automation**  
+LLM integration · local LLM workflows · prompt and handoff design · process automation · workflow orchestration
+
+**Systems & operations**  
+Network operations · infrastructure concepts · APIs · cybersecurity · documentation · process improvement
 
 ---
 
 ## Background
 
-- **20-year U.S. Army veteran** — IT Specialist / Network & Operations Lead
-- **MBA** — Acquisitions & Contract Management, Bellevue University (2026)
-- **BS Cybersecurity** — University of Maryland
-- **Secret clearance eligible** · SDVOSB-qualified
-- **PMP certification** — Expected May 2026
+- 20-year U.S. Army IT veteran (operations, infrastructure, network support)
+- BS in Cybersecurity — University of Maryland Global Campus
+- MBA in Acquisitions & Contract Management — Bellevue University
+- Interested in building practical systems that combine technology, operations, and human judgment
 
 ---
 
 ## Resume
 
-📄 [Download Resume (DOCX)](./Lawrence_Magee_AI_Solutions_Engineer_Resume.docx)
+📄 Resume download:
+
+`Lawrence_Magee_AI_Solutions_Engineer_Resume.docx`
 
 ---
 
-*Built by Lawrence Magee under [MAGE Software](https://github.com/lmagee3) (Malleus Prendere LLC)*
+## Contact
+
+If you are interested in collaboration, product conversations, AI workflow design, or technical opportunities:
+
+- LinkedIn: https://linkedin.com/in/lawrencemagee
+- GitHub: https://github.com/lmagee3
